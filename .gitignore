@@ -1,0 +1,4 @@
+.idea
+testapp/platforms
+testapp/node_modules
+testapp/hooks
